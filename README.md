@@ -11,7 +11,7 @@ A brief description of your project and its purpose.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git https://github.com/thealiev/final
 cd your-repo
 # Add additional installation steps here
 ```
