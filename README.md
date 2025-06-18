@@ -18,11 +18,11 @@ cd your-repo
 
 ## Usage
 
-npm init -y
-npm install
+
 
 ```bash
-# Instructions on how to run or use your project
+npm init -y
+npm install
 ```
 
 ## Contributing
